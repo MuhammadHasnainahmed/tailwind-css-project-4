@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(217, 54%, 11%);
+}
+ 
+
+.main{
+    background-color:hsl(216, 50%, 16%) ;
+    
+}
+
+.color-pic{
+   color:hsl(178, 100%, 50%) ;
+}
+.equlibrium{
+    background-image: url('./img/image-equilibrium.jpg');
+}
+.eyes{
+    
+}
